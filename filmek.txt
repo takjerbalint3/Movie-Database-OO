@@ -1,0 +1,5 @@
+D, Money Heist The Phenomenon, 2020, 57, Bankrablas
+D, The Game Changers, 2018, 107, Valami
+C, Over the moon, 2020, 100, 8
+D, Planet Earth, 1776, 101, Elet a foldon
+C, Teszt, 1999, 102, 18
